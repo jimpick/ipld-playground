@@ -10,6 +10,6 @@
   "author": "Jim Pick (@jimpick)",
   "license": "MIT",
   "dependencies": {
-    "ipfs": "^0.34.4"
+    "ipfs": "0.35.0-pre.0"
   }
 }
